@@ -1,2 +1,1 @@
-module github.com/remyoudompheng/go-liblzma
-
+module github.com/EcoG-io/go-liblzma
